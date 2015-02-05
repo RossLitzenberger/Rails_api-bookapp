@@ -28,7 +28,7 @@ class CreatingBooksTest < ActionDispatch::IntegrationTest
     assert_equal '13123', book[:amazon_id]
 
   end
-   test 'does not create book without title' do
+   test 'does not create book with invalid data' do
     post '/books', { book: { title: nil, rating: 1 }}.to_json,
       { 'Accept' => 'application/json', 'Content-Type' => 'application/json' }
 
