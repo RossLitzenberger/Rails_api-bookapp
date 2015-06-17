@@ -12,7 +12,7 @@ Ruby is 2.1.0
 * rails s
 
 ## Links to Codeschool
-[Rails Api](https://github.com/codeschool/RailsAPISoupToBits)
+[Rails Api](https://github.com/codeschool/RailsAPISoupToBits) \n
 [Ember Readinglist](https://github.com/codeschool/EmberReadinglist)
 
 ## Links to My Ember_app
