@@ -4,6 +4,8 @@ This Rails app was a follow along with Codeschool Screencast Rails_Api and Ember
 ## Install
 Ruby is 2.1.0
 
+
+* bundle install
 * rake db:setup
 * rake db:seed
 * rails s
