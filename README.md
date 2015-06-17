@@ -12,7 +12,8 @@ Ruby is 2.1.0
 * rails s
 
 ## Links to Codeschool
-[Rails Api](https://github.com/codeschool/RailsAPISoupToBits) \n
+[Rails Api](https://github.com/codeschool/RailsAPISoupToBits)
+
 [Ember Readinglist](https://github.com/codeschool/EmberReadinglist)
 
 ## Links to My Ember_app
